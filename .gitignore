@@ -1,0 +1,6 @@
+node_modules
+/vendor
+/.idea
+/.idea/craft-reactions.iml
+/.idea/laravel-idea.xml
+/.idea/php.xml

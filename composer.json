@@ -24,10 +24,12 @@
     }
   },
   "extra": {
-    "handle": "craft-reactions",
     "name": "Reactions",
+    "handle": "craft-reactions",
     "developer": "Shorn",
+    "developerUrl": "https://shorn.co.uk",
     "documentationUrl": "https://github.com/shornuk/craft-reactions",
+    "changelogUrl": "https://raw.githubusercontent.com/shornuk/craft-reactions/master/CHANGELOG.md",
     "class": "shornuk\\reactions\\Reactions"
   },
   "scripts": {
